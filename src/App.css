@@ -1,0 +1,53 @@
+.logo{
+  font-size: 30px;
+  font-weight: bold;
+  float: left;
+}
+
+.App {
+  padding: 16px;;
+}
+.pl10{
+  padding-left: 10px;
+}
+.logout {
+  float: right;
+  width: 100px;
+  padding: 10px;
+}
+.clear {
+  clear: both;
+}
+.dahboard-line {
+  border-bottom: 1px solid #1f1209;
+}
+.pat-table-title {
+  padding-top: 25px;
+  padding-bottom: 25px;
+  font-size: 30px;
+  font-weight:700;
+  font-variant: small-caps;
+}
+.pat-table {
+  width: 100%;
+}
+.pat-table-dt {
+  padding: 5px
+}
+.pat-table-heading {
+  background: #babcbe;
+}
+.pat-detail-data {
+  line-height: 1.8;
+  font-size: 20px;
+}
+.pat-detail-data-scetion {
+  color: blue;
+}
+.pat-detail-data-italic {
+  font-style: italic;
+}
+.pat-search {
+  float: right;
+  padding: 10px;
+}
